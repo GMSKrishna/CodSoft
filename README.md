@@ -12,6 +12,16 @@ Movie Rating Prediction project enables you to explore data analysis, preprocess
 It provides insights into the factors that influence movie ratings and allows you to build a model that can estimate the ratings of movies accurately.
 
 # CodSoft task->3
+Create a system to classify iris flowers into different species based on their features. 
+This is a classification project using Python and the Iris dataset, a classic dataset in machine learning.
+The goal is to use various machine learning algorithms to predict the species of iris flowers and compare the results to determine which algorithm is best suited for this classification problem.
+
+# CodSoft task->4
+Develop a model that predicts future sales for a retail store based on historical sales data and other relevant features. 
+This is a regression project using Python. 
+The goal is to analyze past sales data, preprocess it, engineer relevant features, and build a regression model that accurately forecasts future sales.
+
+# CodSoft task->5
 Credit card fraud is a major concern for banks and financial institutions.
 Fraudsters use various techniques to steal credit card information and make unauthorized transactions.
 In this project, we will explore a dataset containing credit card transactions and build models to predict fraudulent transactions.
